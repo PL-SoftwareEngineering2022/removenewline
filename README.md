@@ -7,4 +7,4 @@
 echo "Ncghcbhbjncsx 
 bhhbnxjhz
 cbnz
-adsk" | tr -d " \t\n\r" > testfile2.txt```
+adsk" | tr -d " \t\n\r" > testfile2.txt
